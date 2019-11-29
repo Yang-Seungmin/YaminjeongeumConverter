@@ -1,0 +1,13370 @@
+{
+	"datas": [
+		{
+			"index": 35,
+			"dataLen": 3,
+			"ruleStrings": [
+				"저스틴 비버",
+				"저스틴 뜨또",
+				"겨스目 뜨또"
+			],
+			"selections": [
+				0,
+				1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				1
+			],
+			"sizes": [
+				6,
+				6,
+				6
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 2,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팡팡 울었다",
+				"광광 우럭따"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				6,
+				6
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 5,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팡팡울었다",
+				"광광우럭따"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				5,
+				5
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 3,
+			"dataLen": 2,
+			"ruleStrings": [
+				"비빔밥",
+				"ㄸ뚜ㅁ뜨뜨"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				3,
+				5
+			],
+			"suggestionsH2Y": [
+				4
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 6,
+			"dataLen": 2,
+			"ruleStrings": [
+				"오우야",
+				"5윽OF"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				3,
+				4
+			],
+			"suggestionsH2Y": [
+				7,
+				8
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 1,
+			"dataLen": 4,
+			"ruleStrings": [
+				"대머리",
+				"머머리",
+				"머대리",
+				"머대긘"
+			],
+			"selections": [
+				0,
+				1,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0,
+				0
+			],
+			"sizes": [
+				3,
+				3,
+				3,
+				3
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 47,
+			"dataLen": 3,
+			"ruleStrings": [
+				"멍멍이",
+				"댕댕이",
+				"댕댕01"
+			],
+			"selections": [
+				0,
+				1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			],
+			"sizes": [
+				3,
+				3,
+				3
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 48,
+			"dataLen": 3,
+			"ruleStrings": [
+				"귀여워",
+				"커여워",
+				"커억읚"
+			],
+			"selections": [
+				0,
+				1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			],
+			"sizes": [
+				3,
+				3,
+				3
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 4,
+			"dataLen": 2,
+			"ruleStrings": [
+				"비빔밥",
+				"네넴밥"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				3,
+				3
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 7,
+			"dataLen": 2,
+			"ruleStrings": [
+				"오우야",
+				"ㅗㅜㅑ"
+			],
+			"selections": [
+				0,
+				1
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				3,
+				3
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				9
+			]
+		},
+		{
+			"index": 10,
+			"dataLen": 2,
+			"ruleStrings": [
+				"이명박",
+				"어맹뿌"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				3,
+				3
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 8,
+			"dataLen": 2,
+			"ruleStrings": [
+				"오우야",
+				"퍄"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				3,
+				1
+			],
+			"suggestionsH2Y": [
+				6
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 17,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뀨?",
+				"구구?"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				3
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 11,
+			"dataLen": 4,
+			"ruleStrings": [
+				"우유",
+				"윽유",
+				"우윾",
+				"윽윾"
+			],
+			"selections": [
+				0,
+				2,
+				1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				2,
+				2,
+				2
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 36,
+			"dataLen": 4,
+			"ruleStrings": [
+				"펭귄",
+				"뗑컨",
+				"뗑귄",
+				"펭컨"
+			],
+			"selections": [
+				0,
+				3,
+				1,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				2,
+				2,
+				2
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 34,
+			"dataLen": 3,
+			"ruleStrings": [
+				"댓글",
+				"멋글",
+				"멋른"
+			],
+			"selections": [
+				0,
+				1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				2,
+				2
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 49,
+			"dataLen": 3,
+			"ruleStrings": [
+				"귀신",
+				"커신",
+				"커쇠"
+			],
+			"selections": [
+				0,
+				1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				2,
+				2
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 21,
+			"dataLen": 2,
+			"ruleStrings": [
+				"믁뽓",
+				"?哭"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			],
+			"sizes": [
+				2,
+				2
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 22,
+			"dataLen": 2,
+			"ruleStrings": [
+				"숭늉",
+				"숭욕"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				2
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 33,
+			"dataLen": 2,
+			"ruleStrings": [
+				"비버",
+				"뜨또"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				2
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 53,
+			"dataLen": 2,
+			"ruleStrings": [
+				"우리",
+				"윽긘"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				2
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 18,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뉘속",
+				"將"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			],
+			"sizes": [
+				2,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 19,
+			"dataLen": 2,
+			"ruleStrings": [
+				"국왕",
+				"張"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			],
+			"sizes": [
+				2,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 20,
+			"dataLen": 2,
+			"ruleStrings": [
+				"아홉",
+				"情"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			],
+			"sizes": [
+				2,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 23,
+			"dataLen": 2,
+			"ruleStrings": [
+				"돌돔",
+				"뚊"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 24,
+			"dataLen": 2,
+			"ruleStrings": [
+				"존좋",
+				"쬲"
+			],
+			"selections": [
+				0,
+				1
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 25,
+			"dataLen": 2,
+			"ruleStrings": [
+				"노래",
+				"놃"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 26,
+			"dataLen": 2,
+			"ruleStrings": [
+				"주작",
+				"짞"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 27,
+			"dataLen": 2,
+			"ruleStrings": [
+				"복복",
+				"뾲"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 28,
+			"dataLen": 2,
+			"ruleStrings": [
+				"스시",
+				"씌"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 29,
+			"dataLen": 2,
+			"ruleStrings": [
+				"불붙",
+				"쁉"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 30,
+			"dataLen": 2,
+			"ruleStrings": [
+				"굴국",
+				"뀱"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 31,
+			"dataLen": 2,
+			"ruleStrings": [
+				27,
+				"ㄺ"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 32,
+			"dataLen": 2,
+			"ruleStrings": [
+				20,
+				"ㄻ"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				2,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 9,
+			"dataLen": 2,
+			"ruleStrings": [
+				"퍄",
+				"ㅗㅜㅑ"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				3
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				7
+			]
+		},
+		{
+			"index": 12,
+			"dataLen": 3,
+			"ruleStrings": [
+				"뀨",
+				"끆",
+				"구구"
+			],
+			"selections": [
+				2,
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				1,
+				2
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 13,
+			"dataLen": 3,
+			"ruleStrings": [
+				"뜌",
+				"뜪",
+				"두두"
+			],
+			"selections": [
+				2,
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				1,
+				2
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 14,
+			"dataLen": 3,
+			"ruleStrings": [
+				"쀼",
+				"쁙",
+				"부부"
+			],
+			"selections": [
+				2,
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				1,
+				2
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 15,
+			"dataLen": 3,
+			"ruleStrings": [
+				"쓔",
+				"쓲",
+				"수수"
+			],
+			"selections": [
+				2,
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				1,
+				2
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 16,
+			"dataLen": 3,
+			"ruleStrings": [
+				"쮸",
+				"쯖",
+				"주주"
+			],
+			"selections": [
+				2,
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				1,
+				2
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 37,
+			"dataLen": 3,
+			"ruleStrings": [
+				"피",
+				"끠",
+				"끽"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				1,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				37
+			]
+		},
+		{
+			"index": 38,
+			"dataLen": 3,
+			"ruleStrings": [
+				"괴",
+				"끠",
+				"끽"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				1,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				36
+			]
+		},
+		{
+			"index": 44,
+			"dataLen": 3,
+			"ruleStrings": [
+				"김",
+				"숲",
+				"金"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				1
+			],
+			"sizes": [
+				1,
+				1,
+				1
+			],
+			"suggestionsH2Y": [
+				44,
+				45
+			],
+			"suggestionsY2H": [
+				44
+			]
+		},
+		{
+			"index": 42,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팜",
+				"괌"
+			],
+			"selections": [
+				0,
+				1
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				40
+			]
+		},
+		{
+			"index": 39,
+			"dataLen": 2,
+			"ruleStrings": [
+				"괴",
+				"피"
+			],
+			"selections": [
+				0,
+				1
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				1
+			],
+			"suggestionsH2Y": [
+				39
+			],
+			"suggestionsY2H": [
+				39
+			]
+		},
+		{
+			"index": 40,
+			"dataLen": 2,
+			"ruleStrings": [
+				"피",
+				"괴"
+			],
+			"selections": [
+				0,
+				1
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				1
+			],
+			"suggestionsH2Y": [
+				38
+			],
+			"suggestionsY2H": [
+				38
+			]
+		},
+		{
+			"index": 41,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팜",
+				"站"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			],
+			"sizes": [
+				1,
+				1
+			],
+			"suggestionsH2Y": [
+				41,
+				42
+			],
+			"suggestionsY2H": [
+				41
+			]
+		},
+		{
+			"index": 43,
+			"dataLen": 2,
+			"ruleStrings": [
+				"괌",
+				"팜"
+			],
+			"selections": [
+				0,
+				1
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 45,
+			"dataLen": 2,
+			"ruleStrings": [
+				"숲",
+				"金"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				43
+			]
+		},
+		{
+			"index": 46,
+			"dataLen": 2,
+			"ruleStrings": [
+				"숲",
+				"김"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 50,
+			"dataLen": 2,
+			"ruleStrings": [
+				"우",
+				"윽"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				1
+			],
+			"suggestionsH2Y": [
+				51
+			],
+			"suggestionsY2H": [
+				51
+			]
+		},
+		{
+			"index": 51,
+			"dataLen": 2,
+			"ruleStrings": [
+				"윽",
+				"우"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				1
+			],
+			"suggestionsH2Y": [
+				50
+			],
+			"suggestionsY2H": [
+				50
+			]
+		},
+		{
+			"index": 52,
+			"dataLen": 2,
+			"ruleStrings": [
+				"리",
+				"긘"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			],
+			"sizes": [
+				1,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 54,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팜",
+				"站"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			],
+			"sizes": [
+				1,
+				1
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		},
+		{
+			"index": 0,
+			"dataLen": 0,
+			"ruleStrings": [
+				0
+			],
+			"selections": [
+				0
+			],
+			"hanjas": [
+				0
+			],
+			"sizes": [
+				0
+			],
+			"suggestionsH2Y": [
+				0
+			],
+			"suggestionsY2H": [
+				0
+			]
+		}
+	],
+	"versionInfo": {
+		"dbVersion": 28,
+		"minAppVersion": 50,
+		"maxAppVersion": 50
+	}
+}
