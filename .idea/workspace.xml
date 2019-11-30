@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc8f1d9c-9842-4595-b970-cc62ebabf4ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/YaminjeongeumConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YaminjeongeumConverterDBManager/Converter.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/YaminjeongeumConverterDBManager/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YaminjeongeumConverterDBManager/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/YaminjeongeumConverterDBManager/RuleData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YaminjeongeumConverterDBManager/RuleData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Converter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YaminjeongeumConverterDBManager/YaminjeongeumConverter$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YaminjeongeumConverterDBManager/YaminjeongeumConverter$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YaminjeongeumConverterDBManager/YaminjeongeumConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YaminjeongeumConverterDBManager/YaminjeongeumConverter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RuleData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RuleData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/VersionData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VersionData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yamin2.json" beforeDir="false" afterPath="$PROJECT_DIR$/yamin2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YaminJeongeumString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YaminjeongeumConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YaminjeongeumConverter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +47,61 @@
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="YaminjeongeumConverterDBManager" />
+      <module name="YaminjeongeumConverter" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="YaminjeongeumConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YaminjeongeumConverter" />
-      <module name="YaminjeongeumConverterDBManager" />
+      <option name="MAIN_CLASS_NAME" value="converter.YaminjeongeumConverter" />
+      <module name="YaminjeongeumConverter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="YaminjeongeumConverter" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="YaminjeongeumConverter" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,7 +137,7 @@
       <updated>1575030988681</updated>
       <workItem from="1575030991334" duration="6665000" />
       <workItem from="1575087365360" duration="5897000" />
-      <workItem from="1575123265138" duration="2246000" />
+      <workItem from="1575123265138" duration="5175000" />
     </task>
     <servers />
   </component>
@@ -100,10 +145,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1575096562644">
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1575131936980">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1575096562644" />
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1575131936980" />
     <state x="339" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575096816129">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -116,45 +161,45 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="464" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575031578366" />
-    <state width="1493" height="155" key="GridCell.Tab.0.bottom" timestamp="1575126397182">
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom" timestamp="1575132122099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="155" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575126397182" />
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575132122099" />
     <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575040930036" />
-    <state width="1493" height="155" key="GridCell.Tab.0.center" timestamp="1575126397182">
+    <state width="1493" height="155" key="GridCell.Tab.0.center" timestamp="1575132122099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="155" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575126397182" />
+    <state width="1493" height="155" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575132122099" />
     <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575040930036" />
-    <state width="1493" height="155" key="GridCell.Tab.0.left" timestamp="1575126397182">
+    <state width="1493" height="155" key="GridCell.Tab.0.left" timestamp="1575132122099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="155" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575126397182" />
+    <state width="1493" height="155" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575132122099" />
     <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575040930035" />
-    <state width="1493" height="155" key="GridCell.Tab.0.right" timestamp="1575126397182">
+    <state width="1493" height="155" key="GridCell.Tab.0.right" timestamp="1575132122099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="155" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575126397182" />
+    <state width="1493" height="155" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575132122099" />
     <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575040930036" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1575040930036">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1575131688595">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575033202120" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575131688595" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575040930036" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1575040930036">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1575131688595">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1575033202120" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1575131688595" />
     <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575040930036" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1575040930036">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1575131688595">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1575033202119" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1575131688595" />
     <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575040930036" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1575040930036">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1575131688595">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1575033202120" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1575131688595" />
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575040930036" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1575031579820">
       <screen x="0" y="0" width="1536" height="824" />

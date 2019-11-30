@@ -1,3 +1,5 @@
+package converter;
+
 public class VersionData {
     private int dbVersion;
 
@@ -5,4 +7,7 @@ public class VersionData {
         this.dbVersion = dbVersion;
     }
 
+    public int getDbVersion() {
+        return dbVersion;
+    }
 }

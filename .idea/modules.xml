@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/YaminjeongeumConverterDBManager.iml" filepath="$PROJECT_DIR$/YaminjeongeumConverterDBManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YaminjeongeumConverter.iml" filepath="$PROJECT_DIR$/YaminjeongeumConverter.iml" />
     </modules>
   </component>
 </project>

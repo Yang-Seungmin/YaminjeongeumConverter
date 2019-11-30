@@ -1,3 +1,5 @@
+package converter;
+
 public class YaminjeongeumData {
     private RuleData[] datas;
     private VersionData versionInfo;

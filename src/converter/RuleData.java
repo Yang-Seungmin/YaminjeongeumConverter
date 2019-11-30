@@ -1,3 +1,5 @@
+package converter;
+
 public class RuleData {
     int index;
     int dataLen;
