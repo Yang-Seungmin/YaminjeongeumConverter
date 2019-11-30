@@ -1,9 +1,17 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        Converter converter = new Converter();
-        converter.getFile();
-        //System.out.println("Hello");
+        YaminjeongeumConverter yaminjeongeumConverter = new YaminjeongeumConverter.Builder()
+                .setConvertHanja(false)
+                .setSelectionStrength(SelectionStrength.EXTREME)
+                .build();
 
-        System.out.println("Convert : " + converter.convert("괌", 3, false));
+        //yaminjeongeumConverter.setSelectionStrength(SelectionStrength.ORIGINAL);
+
+        Scanner scanner = new Scanner(System.in);
+        String str = scanner.next();
+
+        System.out.println("Convert : " + yaminjeongeumConverter.convert(str));
     }
 }
