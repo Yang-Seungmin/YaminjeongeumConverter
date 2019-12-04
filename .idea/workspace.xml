@@ -5,6 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="Source" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="fc8f1d9c-9842-4595-b970-cc62ebabf4ae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -44,6 +45,9 @@
       <change beforePath="$PROJECT_DIR$/docs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overview-tree.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gson-2.8.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/gson-2.8.2.jar" afterDir="false" />
     </list>
+=======
+    <list default="true" id="fc8f1d9c-9842-4595-b970-cc62ebabf4ae" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
