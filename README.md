@@ -1,16 +1,16 @@
-# YaminjeongeumConverterDBManager
+# Yaminjeongeum Converter
 ###### Copyright (C) 2019 by Seungmin-Yang | <tmdals099@gmail.com>
 
 한글 단어 및 문자 변환과 관련된 밈인 '야민정음'으로의 변환 및 역변환을 제공하는 툴입니다.
 
 ## Usage
-### Creating new Instance
+### Create new Instance
 YaminjeongeumConverter.Builder()를 사용해 YaminjeongeumConverter 인스턴스를 생성합니다.
 ```
 YaminjeongeumConverter yaminjeongeumConverter = new YaminjeongeumConverter.Builder()
                 .build();
 ```
-### Converting
+### Convert
 변환하고 싶은 문자열을 convert 메소드와 함께 추가하면 변환된 문자열이 반환됩니다.
 ```
 yaminjeongeumConverter.convert(str);
@@ -42,7 +42,7 @@ YaminjeongeumConverter yaminjeongeumConverter = new YaminjeongeumConverter.Build
 **setErrorListener(ErrorListener errorListener)** : 어떤 이유로 객체가 정상적으로 설정되지 않았을 경우 이 리스너를 통해 에러 메시지가 출력됩니다.  
 **setDebugMode(boolean debugMode)** : 이 옵션이 true일 경우 중간 과정을 콘솔(System.out.println)로 출력합니다.  
 
-##Library in use
+## Library in use
 Gson - A Java serialization/deserialization library to convert Java Objects into JSON and back
 <https://github.com/google/gson>
 ```
