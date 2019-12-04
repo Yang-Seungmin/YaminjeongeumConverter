@@ -63,8 +63,7 @@ public class YaminjeongeumConverter {
             void onErrorReceived(String errorString);
         }
 
-        public Builder() {
-        }
+        public Builder() {}
 
         /**
          * json 파일을 불러올 경로를 설정합니다.
