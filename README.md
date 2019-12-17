@@ -21,12 +21,6 @@ yaminjeongeumConverter.convert(str);
 YaminjeongeumConverter yaminjeongeumConverter = new YaminjeongeumConverter.Builder()
                 .setConvertHanja(false)
                 .setSelectionStrength(SelectionStrength.EXTREME)
-                .setErrorListener(new YaminjeongeumConverter.Builder.ErrorListener() {
-                    @Override
-                    public void onErrorReceived(String errorString) {
-                        System.out.println(errorString);
-                    }
-                })
                 .setDebugMode(false)
                 .setFilePath("custom_file_path.json")
                 .build();
@@ -39,7 +33,6 @@ YaminjeongeumConverter yaminjeongeumConverter = new YaminjeongeumConverter.Build
 > SelectionStrength.MODERATE : 중간 강도의 변환을 수행합니다.  
 > SelectionStrength.EXTREME : 강력한 변환을 수행합니다.  
 
-**setErrorListener(ErrorListener errorListener)** : 어떤 이유로 객체가 정상적으로 설정되지 않았을 경우 이 리스너를 통해 에러 메시지가 출력됩니다.  
 **setDebugMode(boolean debugMode)** : 이 옵션이 true일 경우 중간 과정을 콘솔(System.out.println)로 출력합니다.  
 
 ## Library in use

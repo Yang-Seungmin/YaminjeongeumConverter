@@ -4,57 +4,26 @@
     <option name="SCOPE_TYPE" value="8" />
     <option name="CUSTOM_SCOPE_NAME" value="Source" />
   </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="YaminjeongeumConverter:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fc8f1d9c-9842-4595-b970-cc62ebabf4ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/YaminjeongeumConverter_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/Main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/class-use/Main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/RuleData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/SelectionStrength.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/VersionData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/YaminjeongeumConverter.Builder.ErrorListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/YaminjeongeumConverter.Builder.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/YaminjeongeumConverter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/YaminjeongeumData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/class-use/RuleData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/class-use/SelectionStrength.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/class-use/VersionData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/class-use/YaminjeongeumConverter.Builder.ErrorListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/class-use/YaminjeongeumConverter.Builder.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/class-use/YaminjeongeumConverter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/class-use/YaminjeongeumData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/converter/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index-files/index-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index-files/index-10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index-files/index-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index-files/index-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index-files/index-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index-files/index-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index-files/index-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index-files/index-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index-files/index-8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index-files/index-9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/overview-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/overview-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YaminjeongeumConverter/META-INF/YaminjeongeumConverter.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YaminjeongeumConverter/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YaminjeongeumConverter/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YaminjeongeumConverter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YaminjeongeumConverter/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YaminjeongeumConverter/converter/YaminjeongeumConverter$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YaminjeongeumConverter/converter/YaminjeongeumConverter$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YaminjeongeumConverter/converter/YaminjeongeumConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/YaminjeongeumConverter/converter/YaminjeongeumConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/YaminjeongeumConverterDBManager/META-INF/YaminjeongeumConverterDBManager.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/converter/YaminjeongeumConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/converter/YaminjeongeumConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yamin2.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,14 +52,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/gson-2.8.2.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resources" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\YaminjeongeumConverter\src\resources" />
+      <recent name="D:\Projects\YaminjeongeumConverter\src\META-INF" />
+      <recent name="D:\Projects\YaminjeongeumConverter\src\META-INF\resources" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -143,6 +120,7 @@
       <workItem from="1575374821915" duration="2169000" />
       <workItem from="1575417535244" duration="5000" />
       <workItem from="1575464890347" duration="335000" />
+      <workItem from="1576569603662" duration="4394000" />
     </task>
     <servers />
   </component>
@@ -150,13 +128,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1576572530662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1576572530662" />
     <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1575131936980">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1575131936980" />
-    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575464911303">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="499" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576569760887">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="499" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1576569760887" />
+    <state x="646" y="323" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576569614371">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="646" y="323" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1576569614371" />
     <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575464911303" />
     <state x="339" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575096816129">
       <screen x="0" y="0" width="1536" height="824" />
@@ -167,29 +154,29 @@
     </state>
     <state x="515" y="266" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1575134667533" />
     <state x="644" y="336" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1575465281747" />
-    <state x="464" y="153" key="FileChooserDialogImpl" timestamp="1575134150291">
+    <state x="464" y="153" key="FileChooserDialogImpl" timestamp="1576578048224">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="464" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575134150291" />
-    <state width="1493" height="155" key="GridCell.Tab.0.bottom" timestamp="1575274425467">
+    <state x="464" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576578048224" />
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom" timestamp="1576580237048">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="155" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575274425467" />
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576580237048" />
     <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575040930036" />
-    <state width="1493" height="155" key="GridCell.Tab.0.center" timestamp="1575274425467">
+    <state width="1493" height="155" key="GridCell.Tab.0.center" timestamp="1576580237048">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="155" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575274425467" />
+    <state width="1493" height="155" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576580237048" />
     <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575040930036" />
-    <state width="1493" height="155" key="GridCell.Tab.0.left" timestamp="1575274425467">
+    <state width="1493" height="155" key="GridCell.Tab.0.left" timestamp="1576580237048">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="155" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575274425467" />
+    <state width="1493" height="155" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576580237048" />
     <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575040930035" />
-    <state width="1493" height="155" key="GridCell.Tab.0.right" timestamp="1575274425467">
+    <state width="1493" height="155" key="GridCell.Tab.0.right" timestamp="1576580237048">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="155" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575274425467" />
+    <state width="1493" height="155" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576580237048" />
     <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575040930036" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1575134722863">
       <screen x="0" y="0" width="1536" height="824" />
@@ -211,10 +198,10 @@
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1575134722863" />
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575040930036" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1575031579820">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1576578191289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575031579820" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576578191289" />
     <state x="459" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1575417534704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -223,6 +210,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="37" y="224" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1575038021228" />
+    <state x="180" y="22" key="new project wizard" timestamp="1576572695474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="180" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1576572695474" />
     <state x="490" y="263" key="scopes" timestamp="1575465224084">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

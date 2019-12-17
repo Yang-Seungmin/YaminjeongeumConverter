@@ -1,0 +1,11665 @@
+{
+	"datas": [
+		{
+			"index": 1,
+			"dataLen": 8,
+			"ruleStrings": [
+				"대머리",
+				"머머리",
+				"대대리",
+				"머대리",
+				"대머긘",
+				"대대긘",
+				"머머긘",
+				"머대긘"
+			],
+			"selections": [
+				0,
+				1,
+				-1,
+				2,
+				-1,
+				-1,
+				-1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 2,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팡팡 울었다",
+				"광광 우럭따"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 3,
+			"dataLen": 8,
+			"ruleStrings": [
+				"비빔밥",
+				"네빔밥",
+				"비넴밥",
+				"비넴ㄸ두",
+				"네넴밥",
+				"네빔ㄸ뚜",
+				"비넴ㄸ뚜",
+				"네넴ㄸ뚜"
+			],
+			"selections": [
+				0,
+				-1,
+				-1,
+				-1,
+				2,
+				-1,
+				-1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 4,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팡팡울었다",
+				"광광우럭따"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 5,
+			"dataLen": 4,
+			"ruleStrings": [
+				"오우야",
+				"5윽OF",
+				"ㅗㅜㅑ",
+				"퍄"
+			],
+			"selections": [
+				0,
+				3,
+				1,
+				2
+			],
+			"hanjas": [
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 6,
+			"dataLen": 3,
+			"ruleStrings": [
+				"이명박",
+				"이띵박",
+				"어맹뿌"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 7,
+			"dataLen": 4,
+			"ruleStrings": [
+				"우유",
+				"윽유",
+				"우윾",
+				"윽윾"
+			],
+			"selections": [
+				0,
+				2,
+				1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 8,
+			"dataLen": 3,
+			"ruleStrings": [
+				"뀨",
+				"끆",
+				"구구"
+			],
+			"selections": [
+				2,
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 9,
+			"dataLen": 3,
+			"ruleStrings": [
+				"뜌",
+				"뜪",
+				"두두"
+			],
+			"selections": [
+				2,
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 10,
+			"dataLen": 3,
+			"ruleStrings": [
+				"쀼",
+				"쁙",
+				"부부"
+			],
+			"selections": [
+				2,
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 11,
+			"dataLen": 3,
+			"ruleStrings": [
+				"쓔",
+				"쓲",
+				"수수"
+			],
+			"selections": [
+				2,
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 12,
+			"dataLen": 3,
+			"ruleStrings": [
+				"쮸",
+				"쯖",
+				"주주"
+			],
+			"selections": [
+				2,
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 13,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뀨?",
+				"구구?"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 14,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뉘속",
+				"將"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 15,
+			"dataLen": 2,
+			"ruleStrings": [
+				"국왕",
+				"張"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 16,
+			"dataLen": 2,
+			"ruleStrings": [
+				"아홉",
+				"情"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 17,
+			"dataLen": 2,
+			"ruleStrings": [
+				"믁뽓",
+				"?哭"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 18,
+			"dataLen": 2,
+			"ruleStrings": [
+				"숭늉",
+				"숭욕"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 19,
+			"dataLen": 2,
+			"ruleStrings": [
+				"돌돔",
+				"뚊"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 20,
+			"dataLen": 2,
+			"ruleStrings": [
+				"존좋",
+				"쬲"
+			],
+			"selections": [
+				0,
+				1
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 21,
+			"dataLen": 2,
+			"ruleStrings": [
+				"노래",
+				"놃"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 22,
+			"dataLen": 2,
+			"ruleStrings": [
+				"주작",
+				"짞"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 23,
+			"dataLen": 2,
+			"ruleStrings": [
+				"복복",
+				"뾲"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 24,
+			"dataLen": 2,
+			"ruleStrings": [
+				"스시",
+				"씌"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 25,
+			"dataLen": 2,
+			"ruleStrings": [
+				"불붙",
+				"쁉"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 26,
+			"dataLen": 2,
+			"ruleStrings": [
+				"굴국",
+				"뀱"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 27,
+			"dataLen": 2,
+			"ruleStrings": [
+				27,
+				"ㄺ"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 28,
+			"dataLen": 2,
+			"ruleStrings": [
+				20,
+				"ㄻ"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 29,
+			"dataLen": 2,
+			"ruleStrings": [
+				"비버",
+				"뜨또"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 30,
+			"dataLen": 3,
+			"ruleStrings": [
+				"댓글",
+				"멋글",
+				"멋른"
+			],
+			"selections": [
+				0,
+				1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 31,
+			"dataLen": 3,
+			"ruleStrings": [
+				"저스틴 비버",
+				"저스틴 뜨또",
+				"겨스目 뜨또"
+			],
+			"selections": [
+				0,
+				1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				1
+			]
+		},
+		{
+			"index": 32,
+			"dataLen": 4,
+			"ruleStrings": [
+				"펭귄",
+				"뗑컨",
+				"뗑귄",
+				"펭컨"
+			],
+			"selections": [
+				0,
+				3,
+				1,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 33,
+			"dataLen": 3,
+			"ruleStrings": [
+				"피",
+				"끠",
+				"끽"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 34,
+			"dataLen": 3,
+			"ruleStrings": [
+				"괴",
+				"끠",
+				"끽"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 35,
+			"dataLen": 2,
+			"ruleStrings": [
+				"괴",
+				"피"
+			],
+			"selections": [
+				0,
+				1
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 36,
+			"dataLen": 2,
+			"ruleStrings": [
+				"피",
+				"괴"
+			],
+			"selections": [
+				0,
+				1
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 37,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팜",
+				"站"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 38,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팜",
+				"괌"
+			],
+			"selections": [
+				0,
+				1
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 39,
+			"dataLen": 2,
+			"ruleStrings": [
+				"괌",
+				"팜"
+			],
+			"selections": [
+				0,
+				1
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 40,
+			"dataLen": 3,
+			"ruleStrings": [
+				"김",
+				"숲",
+				"金"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				1
+			]
+		},
+		{
+			"index": 41,
+			"dataLen": 2,
+			"ruleStrings": [
+				"숲",
+				"金"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 42,
+			"dataLen": 2,
+			"ruleStrings": [
+				"숲",
+				"김"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 43,
+			"dataLen": 3,
+			"ruleStrings": [
+				"멍멍이",
+				"댕댕이",
+				"댕댕01"
+			],
+			"selections": [
+				0,
+				1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 44,
+			"dataLen": 3,
+			"ruleStrings": [
+				"귀여",
+				"커여",
+				"커억"
+			],
+			"selections": [
+				0,
+				1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 45,
+			"dataLen": 3,
+			"ruleStrings": [
+				"귀엽",
+				"커엽",
+				"커ㄸ요"
+			],
+			"selections": [
+				0,
+				1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 46,
+			"dataLen": 3,
+			"ruleStrings": [
+				"귀신",
+				"커신",
+				"커쇠"
+			],
+			"selections": [
+				0,
+				1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 47,
+			"dataLen": 2,
+			"ruleStrings": [
+				"우",
+				"윽"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 48,
+			"dataLen": 2,
+			"ruleStrings": [
+				"윽",
+				"우"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 49,
+			"dataLen": 2,
+			"ruleStrings": [
+				"리",
+				"긘"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 50,
+			"dataLen": 2,
+			"ruleStrings": [
+				"우리",
+				"윽긘"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 51,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팜",
+				"站"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 52,
+			"dataLen": 2,
+			"ruleStrings": [
+				"구",
+				"극"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 53,
+			"dataLen": 2,
+			"ruleStrings": [
+				"극",
+				"구"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 54,
+			"dataLen": 2,
+			"ruleStrings": [
+				"푸",
+				"辛"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 55,
+			"dataLen": 2,
+			"ruleStrings": [
+				"푸",
+				"픅"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 56,
+			"dataLen": 2,
+			"ruleStrings": [
+				"댁",
+				"먹"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 57,
+			"dataLen": 3,
+			"ruleStrings": [
+				"먹물",
+				"댁물",
+				"먹롬"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 58,
+			"dataLen": 2,
+			"ruleStrings": [
+				"먼",
+				"댄"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 59,
+			"dataLen": 2,
+			"ruleStrings": [
+				"휴먼",
+				"흒댄"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 60,
+			"dataLen": 3,
+			"ruleStrings": [
+				"댄디",
+				"먼디",
+				"r모ㅁ"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 61,
+			"dataLen": 3,
+			"ruleStrings": [
+				"멸",
+				"덀",
+				"띨"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 62,
+			"dataLen": 4,
+			"ruleStrings": [
+				"안돼",
+				"안먼",
+				"허돼",
+				"허먼"
+			],
+			"selections": [
+				0,
+				2,
+				-1,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 63,
+			"dataLen": 2,
+			"ruleStrings": [
+				"관",
+				"판"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 64,
+			"dataLen": 2,
+			"ruleStrings": [
+				"판",
+				"관"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 65,
+			"dataLen": 4,
+			"ruleStrings": [
+				"관광",
+				"판광",
+				"관팡",
+				"판팡"
+			],
+			"selections": [
+				0,
+				-1,
+				-1,
+				2
+			],
+			"hanjas": [
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 66,
+			"dataLen": 3,
+			"ruleStrings": [
+				"컨",
+				"귄",
+				"쾨"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 67,
+			"dataLen": 2,
+			"ruleStrings": [
+				"슴",
+				"合"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 68,
+			"dataLen": 3,
+			"ruleStrings": [
+				"댸",
+				"며",
+				"띠"
+			],
+			"selections": [
+				3,
+				2,
+				0
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 69,
+			"dataLen": 3,
+			"ruleStrings": [
+				"멱",
+				"댹",
+				"띡"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 70,
+			"dataLen": 3,
+			"ruleStrings": [
+				"댂",
+				"멲",
+				"띢"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 71,
+			"dataLen": 3,
+			"ruleStrings": [
+				"댻",
+				"멳",
+				"띣"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 72,
+			"dataLen": 3,
+			"ruleStrings": [
+				"댼",
+				"면",
+				"띤"
+			],
+			"selections": [
+				2,
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 73,
+			"dataLen": 3,
+			"ruleStrings": [
+				"댽",
+				"멵",
+				"띥"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 74,
+			"dataLen": 3,
+			"ruleStrings": [
+				"댾",
+				"멶",
+				"띦"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 75,
+			"dataLen": 3,
+			"ruleStrings": [
+				"댿",
+				"멷",
+				"띧"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 76,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덁",
+				"멹",
+				"띩"
+			],
+			"selections": [
+				3,
+				2,
+				0
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 77,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덂",
+				"멺",
+				"띪"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 78,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덃",
+				"멻",
+				"띫"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 79,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덄",
+				"멼",
+				"띬"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 80,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덅",
+				"멽",
+				"띭"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 81,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덆",
+				"멾",
+				"띮"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 82,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덇",
+				"멿",
+				"띯"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 83,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덈",
+				"몀",
+				"띰"
+			],
+			"selections": [
+				3,
+				2,
+				0
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 84,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덉",
+				"몁",
+				"띱"
+			],
+			"selections": [
+				3,
+				2,
+				0
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 85,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덊",
+				"몂",
+				"띲"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 86,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덋",
+				"몃",
+				"띳"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 87,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덌",
+				"몄",
+				"띴"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 88,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덍",
+				"명",
+				"띵"
+			],
+			"selections": [
+				3,
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 89,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덎",
+				"몆",
+				"띶"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 90,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덏",
+				"몇",
+				"띷"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 91,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덐",
+				"몈",
+				"띸"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 92,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덑",
+				"몉",
+				"띹"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 93,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덒",
+				"몊",
+				"띺"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 94,
+			"dataLen": 3,
+			"ruleStrings": [
+				"덓",
+				"몋",
+				"띻"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 95,
+			"dataLen": 3,
+			"ruleStrings": [
+				"퐝",
+				"팧",
+				"괗"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 96,
+			"dataLen": 3,
+			"ruleStrings": [
+				"괘",
+				"패",
+				"갠"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 97,
+			"dataLen": 3,
+			"ruleStrings": [
+				"음",
+				"흡",
+				"띠아"
+			],
+			"selections": [
+				0,
+				2,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 98,
+			"dataLen": 2,
+			"ruleStrings": [
+				"才",
+				"가"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				1,
+				0
+			]
+		},
+		{
+			"index": 99,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쓰",
+				"?"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 100,
+			"dataLen": 2,
+			"ruleStrings": [
+				"티",
+				"日"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 101,
+			"dataLen": 2,
+			"ruleStrings": [
+				"틴",
+				"目"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 102,
+			"dataLen": 2,
+			"ruleStrings": [
+				"슥",
+				"今"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 103,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뉘",
+				"?"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 104,
+			"dataLen": 2,
+			"ruleStrings": [
+				"마",
+				"?"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 105,
+			"dataLen": 2,
+			"ruleStrings": [
+				"ㅊ",
+				"大"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 106,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쭈",
+				"卒"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 107,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뤼",
+				"引"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 108,
+			"dataLen": 2,
+			"ruleStrings": [
+				"국",
+				"弓"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 109,
+			"dataLen": 2,
+			"ruleStrings": [
+				"조",
+				"丕"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 110,
+			"dataLen": 2,
+			"ruleStrings": [
+				"씇",
+				"笑"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 111,
+			"dataLen": 2,
+			"ruleStrings": [
+				"묘",
+				"豆"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 112,
+			"dataLen": 2,
+			"ruleStrings": [
+				"참",
+				"?"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 113,
+			"dataLen": 2,
+			"ruleStrings": [
+				"못",
+				"?"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 114,
+			"dataLen": 2,
+			"ruleStrings": [
+				"표",
+				"丑"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 115,
+			"dataLen": 2,
+			"ruleStrings": [
+				"체",
+				"初"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 116,
+			"dataLen": 2,
+			"ruleStrings": [
+				"노",
+				"上"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 117,
+			"dataLen": 2,
+			"ruleStrings": [
+				"차",
+				"朴"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 118,
+			"dataLen": 2,
+			"ruleStrings": [
+				"몸",
+				"?"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 119,
+			"dataLen": 2,
+			"ruleStrings": [
+				"대",
+				"머"
+			],
+			"selections": [
+				0,
+				1
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 120,
+			"dataLen": 8,
+			"ruleStrings": [
+				"대나무",
+				"머나무",
+				"대4무",
+				"대나믁",
+				"머4무",
+				"머나믁",
+				"대4믁",
+				"머4믁"
+			],
+			"selections": [
+				0,
+				1,
+				-1,
+				-1,
+				-1,
+				2,
+				-1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 121,
+			"dataLen": 2,
+			"ruleStrings": [
+				"먺",
+				"댂"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 122,
+			"dataLen": 2,
+			"ruleStrings": [
+				"먻",
+				"댃"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 123,
+			"dataLen": 2,
+			"ruleStrings": [
+				"먽",
+				"댅"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 124,
+			"dataLen": 2,
+			"ruleStrings": [
+				"먾",
+				"댆"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 125,
+			"dataLen": 2,
+			"ruleStrings": [
+				"멂",
+				"댊"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 126,
+			"dataLen": 2,
+			"ruleStrings": [
+				"멃",
+				"댋"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 127,
+			"dataLen": 2,
+			"ruleStrings": [
+				"멄",
+				"댋"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 128,
+			"dataLen": 2,
+			"ruleStrings": [
+				"멅",
+				"댍"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 129,
+			"dataLen": 2,
+			"ruleStrings": [
+				"멇",
+				"댎"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 130,
+			"dataLen": 2,
+			"ruleStrings": [
+				"멇",
+				"댏"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 131,
+			"dataLen": 2,
+			"ruleStrings": [
+				"멏",
+				"댗"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 132,
+			"dataLen": 2,
+			"ruleStrings": [
+				"멐",
+				"댘"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 133,
+			"dataLen": 2,
+			"ruleStrings": [
+				"멑",
+				"댙"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 134,
+			"dataLen": 2,
+			"ruleStrings": [
+				"멓",
+				"댛"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 135,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귀",
+				"커"
+			],
+			"selections": [
+				0,
+				1
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 136,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귅",
+				"컩"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 137,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귆",
+				"컪"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 138,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귇",
+				"컫"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 139,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귓",
+				"컷"
+			],
+			"selections": [
+				2,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 140,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귓속",
+				"컷속"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 141,
+			"dataLen": 4,
+			"ruleStrings": [
+				"귓말",
+				"컷말",
+				"귓N무",
+				"컷N무"
+			],
+			"selections": [
+				0,
+				2,
+				-1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 142,
+			"dataLen": 2,
+			"ruleStrings": [
+				"봉",
+				"넣"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 143,
+			"dataLen": 3,
+			"ruleStrings": [
+				"봉지",
+				"넣지",
+				"넣거"
+			],
+			"selections": [
+				0,
+				-1,
+				3
+			],
+			"hanjas": [
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"index": 144,
+			"dataLen": 2,
+			"ruleStrings": [
+				"놔",
+				"난"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 145,
+			"dataLen": 2,
+			"ruleStrings": [
+				"봐",
+				"반"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 146,
+			"dataLen": 2,
+			"ruleStrings": [
+				"좌",
+				"잔"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 147,
+			"dataLen": 2,
+			"ruleStrings": [
+				"콰",
+				"칸"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 148,
+			"dataLen": 2,
+			"ruleStrings": [
+				"화",
+				"한"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 149,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뇌",
+				"닌"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 150,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뢰",
+				"린"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 151,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뵈",
+				"빈"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 152,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쇠",
+				"신"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 153,
+			"dataLen": 2,
+			"ruleStrings": [
+				"외",
+				"인"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 154,
+			"dataLen": 2,
+			"ruleStrings": [
+				"죄",
+				"진"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 155,
+			"dataLen": 2,
+			"ruleStrings": [
+				"최",
+				"친"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 156,
+			"dataLen": 2,
+			"ruleStrings": [
+				"퇴",
+				"틴"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 157,
+			"dataLen": 2,
+			"ruleStrings": [
+				"회",
+				"힌"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 158,
+			"dataLen": 2,
+			"ruleStrings": [
+				"꾀",
+				"낀"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 159,
+			"dataLen": 2,
+			"ruleStrings": [
+				"된",
+				"틴"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 160,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됨",
+				"팀"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 161,
+			"dataLen": 2,
+			"ruleStrings": [
+				"비",
+				"네"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 162,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빅",
+				"넥"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 163,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빈",
+				"넨"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 164,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빗",
+				"넷"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 165,
+			"dataLen": 2,
+			"ruleStrings": [
+				"퍼",
+				"떠"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 166,
+			"dataLen": 2,
+			"ruleStrings": [
+				"포",
+				"또"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 167,
+			"dataLen": 2,
+			"ruleStrings": [
+				"프",
+				"세"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 168,
+			"dataLen": 2,
+			"ruleStrings": [
+				"겨",
+				"걱"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 169,
+			"dataLen": 2,
+			"ruleStrings": [
+				"녀",
+				"넉"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 170,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뎌",
+				"덕"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 171,
+			"dataLen": 2,
+			"ruleStrings": [
+				"려",
+				"럭"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 172,
+			"dataLen": 2,
+			"ruleStrings": [
+				"셔",
+				"석"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 173,
+			"dataLen": 2,
+			"ruleStrings": [
+				"여",
+				"억"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 174,
+			"dataLen": 2,
+			"ruleStrings": [
+				"져",
+				"적"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 175,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쳐",
+				"척"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 176,
+			"dataLen": 2,
+			"ruleStrings": [
+				"텨",
+				"턱"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 177,
+			"dataLen": 2,
+			"ruleStrings": [
+				"펴",
+				"퍽"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 178,
+			"dataLen": 2,
+			"ruleStrings": [
+				"혀",
+				"헉"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 179,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뼈",
+				"뻑"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 180,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쪄",
+				"쩍"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 181,
+			"dataLen": 2,
+			"ruleStrings": [
+				"껴",
+				"꺽"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 182,
+			"dataLen": 2,
+			"ruleStrings": [
+				"얻",
+				"연"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 183,
+			"dataLen": 2,
+			"ruleStrings": [
+				"곤",
+				"포"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 184,
+			"dataLen": 2,
+			"ruleStrings": [
+				"코",
+				"군"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 185,
+			"dataLen": 2,
+			"ruleStrings": [
+				"군",
+				"금"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 186,
+			"dataLen": 2,
+			"ruleStrings": [
+				"눈",
+				"늠"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 187,
+			"dataLen": 2,
+			"ruleStrings": [
+				"둔",
+				"듬"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 188,
+			"dataLen": 2,
+			"ruleStrings": [
+				"룬",
+				"름"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 189,
+			"dataLen": 2,
+			"ruleStrings": [
+				"준",
+				"즘"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 190,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쿤",
+				"큼"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 191,
+			"dataLen": 2,
+			"ruleStrings": [
+				"툰",
+				"틈"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 192,
+			"dataLen": 2,
+			"ruleStrings": [
+				"훈",
+				"흠"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 193,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뿐",
+				"쁨"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 194,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뚠",
+				"뜸"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 195,
+			"dataLen": 2,
+			"ruleStrings": [
+				"꾼",
+				"끔"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 196,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쑨",
+				"씀"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 197,
+			"dataLen": 2,
+			"ruleStrings": [
+				"국",
+				"쿠"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 198,
+			"dataLen": 2,
+			"ruleStrings": [
+				"토",
+				"돈"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 199,
+			"dataLen": 2,
+			"ruleStrings": [
+				"각",
+				"카"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 200,
+			"dataLen": 2,
+			"ruleStrings": [
+				"던",
+				"터"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 201,
+			"dataLen": 2,
+			"ruleStrings": [
+				"키",
+				"긱"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 202,
+			"dataLen": 2,
+			"ruleStrings": [
+				"티",
+				"딘"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 203,
+			"dataLen": 2,
+			"ruleStrings": [
+				"타",
+				"단"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 204,
+			"dataLen": 2,
+			"ruleStrings": [
+				"끼",
+				"게"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 205,
+			"dataLen": 2,
+			"ruleStrings": [
+				"끾",
+				"겎"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 206,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낀",
+				"겐"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 207,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낁",
+				"겑"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 208,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낂",
+				"겒"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 209,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낃",
+				"겓"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 210,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낄",
+				"겔"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 211,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낅",
+				"겕"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 212,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낆",
+				"겖"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 213,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낇",
+				"겗"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 214,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낈",
+				"겘"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 215,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낉",
+				"겙"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 216,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낊",
+				"겚"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 217,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낋",
+				"겛"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 218,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낎",
+				"겞"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 219,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낒",
+				"겢"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 220,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낓",
+				"겣"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 221,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낔",
+				"겤"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 222,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낕",
+				"겥"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 223,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낖",
+				"겦"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 224,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낗",
+				"겧"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 225,
+			"dataLen": 2,
+			"ruleStrings": [
+				"란",
+				"갑"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 226,
+			"dataLen": 2,
+			"ruleStrings": [
+				"입",
+				"왼"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 227,
+			"dataLen": 2,
+			"ruleStrings": [
+				"버",
+				"낸"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 228,
+			"dataLen": 2,
+			"ruleStrings": [
+				"거",
+				"지"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 229,
+			"dataLen": 2,
+			"ruleStrings": [
+				"걱",
+				"직"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 230,
+			"dataLen": 2,
+			"ruleStrings": [
+				"걲",
+				"짂"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 231,
+			"dataLen": 2,
+			"ruleStrings": [
+				"걳",
+				"짃"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 232,
+			"dataLen": 2,
+			"ruleStrings": [
+				"건",
+				"진"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 233,
+			"dataLen": 2,
+			"ruleStrings": [
+				"걵",
+				"짅"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 234,
+			"dataLen": 2,
+			"ruleStrings": [
+				"걶",
+				"짆"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 235,
+			"dataLen": 2,
+			"ruleStrings": [
+				"걷",
+				"짇"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 236,
+			"dataLen": 2,
+			"ruleStrings": [
+				"걸",
+				"질"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 237,
+			"dataLen": 2,
+			"ruleStrings": [
+				"걹",
+				"짉"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 238,
+			"dataLen": 2,
+			"ruleStrings": [
+				"걺",
+				"짊"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 239,
+			"dataLen": 2,
+			"ruleStrings": [
+				"걻",
+				"짋"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 240,
+			"dataLen": 2,
+			"ruleStrings": [
+				"걼",
+				"짌"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 241,
+			"dataLen": 2,
+			"ruleStrings": [
+				"걽",
+				"짍"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 242,
+			"dataLen": 2,
+			"ruleStrings": [
+				"걾",
+				"짎"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 243,
+			"dataLen": 2,
+			"ruleStrings": [
+				"걿",
+				"짏"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 244,
+			"dataLen": 2,
+			"ruleStrings": [
+				"검",
+				"짐"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 245,
+			"dataLen": 2,
+			"ruleStrings": [
+				"겁",
+				"집"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 246,
+			"dataLen": 2,
+			"ruleStrings": [
+				"겂",
+				"짒"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 247,
+			"dataLen": 2,
+			"ruleStrings": [
+				"것",
+				"짓"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 248,
+			"dataLen": 2,
+			"ruleStrings": [
+				"겄",
+				"짔"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 249,
+			"dataLen": 2,
+			"ruleStrings": [
+				"겅",
+				"징"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 250,
+			"dataLen": 2,
+			"ruleStrings": [
+				"겆",
+				"짖"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 251,
+			"dataLen": 2,
+			"ruleStrings": [
+				"겇",
+				"짗"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 252,
+			"dataLen": 2,
+			"ruleStrings": [
+				"겈",
+				"짘"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 253,
+			"dataLen": 2,
+			"ruleStrings": [
+				"겉",
+				"짙"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 254,
+			"dataLen": 2,
+			"ruleStrings": [
+				"겊",
+				"짚"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 255,
+			"dataLen": 2,
+			"ruleStrings": [
+				"겋",
+				"짛"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 256,
+			"dataLen": 2,
+			"ruleStrings": [
+				"계",
+				"겍"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 257,
+			"dataLen": 2,
+			"ruleStrings": [
+				"례",
+				"렉"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 258,
+			"dataLen": 2,
+			"ruleStrings": [
+				"몌",
+				"멕"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 259,
+			"dataLen": 2,
+			"ruleStrings": [
+				"볘",
+				"벡"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 260,
+			"dataLen": 2,
+			"ruleStrings": [
+				"셰",
+				"섹"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 261,
+			"dataLen": 2,
+			"ruleStrings": [
+				"예",
+				"엑"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 262,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쳬",
+				"첵"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 263,
+			"dataLen": 2,
+			"ruleStrings": [
+				"켸",
+				"켁"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 264,
+			"dataLen": 2,
+			"ruleStrings": [
+				"톄",
+				"텍"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 265,
+			"dataLen": 2,
+			"ruleStrings": [
+				"폐",
+				"펙"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 266,
+			"dataLen": 2,
+			"ruleStrings": [
+				"혜",
+				"헥"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 267,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뼤",
+				"뻭"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 268,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쪠",
+				"쩩"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 269,
+			"dataLen": 2,
+			"ruleStrings": [
+				"꼐",
+				"껙"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 270,
+			"dataLen": 2,
+			"ruleStrings": [
+				"의",
+				"익"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 271,
+			"dataLen": 2,
+			"ruleStrings": [
+				"희",
+				"힉"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 272,
+			"dataLen": 2,
+			"ruleStrings": [
+				"씌",
+				"씩"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 273,
+			"dataLen": 2,
+			"ruleStrings": [
+				"저",
+				"겨"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 274,
+			"dataLen": 2,
+			"ruleStrings": [
+				"적",
+				"격"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 275,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젂",
+				"겪"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 276,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젃",
+				"겫"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 277,
+			"dataLen": 2,
+			"ruleStrings": [
+				"전",
+				"견"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 278,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젅",
+				"겭"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 279,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젆",
+				"겮"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 280,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젇",
+				"겯"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 281,
+			"dataLen": 2,
+			"ruleStrings": [
+				"절",
+				"결"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 282,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젉",
+				"겱"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 283,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젋",
+				"겳"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 284,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젌",
+				"겴"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 285,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젍",
+				"겵"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 286,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젎",
+				"겶"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 287,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젏",
+				"겷"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 288,
+			"dataLen": 2,
+			"ruleStrings": [
+				"점",
+				"겸"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 289,
+			"dataLen": 2,
+			"ruleStrings": [
+				"접",
+				"겹"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 290,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젒",
+				"겺"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 291,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젔",
+				"겼"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 292,
+			"dataLen": 2,
+			"ruleStrings": [
+				"정",
+				"경"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 293,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젗",
+				"겿"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 294,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젘",
+				"곁"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 295,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젙",
+				"곁"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 296,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젚",
+				"곂"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 297,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젛",
+				"곃"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 298,
+			"dataLen": 2,
+			"ruleStrings": [
+				"내",
+				"도"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 299,
+			"dataLen": 2,
+			"ruleStrings": [
+				"묵",
+				"놈"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 300,
+			"dataLen": 2,
+			"ruleStrings": [
+				"는",
+				"극"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 301,
+			"dataLen": 2,
+			"ruleStrings": [
+				"놈",
+				"묵"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 302,
+			"dataLen": 2,
+			"ruleStrings": [
+				"물",
+				"롬"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 303,
+			"dataLen": 2,
+			"ruleStrings": [
+				"독",
+				"투"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 304,
+			"dataLen": 2,
+			"ruleStrings": [
+				"펶",
+				"뗚"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 305,
+			"dataLen": 2,
+			"ruleStrings": [
+				"펷",
+				"뗛"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 306,
+			"dataLen": 2,
+			"ruleStrings": [
+				"펹",
+				"뗝"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 307,
+			"dataLen": 2,
+			"ruleStrings": [
+				"펺",
+				"뗞"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 308,
+			"dataLen": 2,
+			"ruleStrings": [
+				"펽",
+				"뗡"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 309,
+			"dataLen": 2,
+			"ruleStrings": [
+				"펿",
+				"뗣"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 310,
+			"dataLen": 2,
+			"ruleStrings": [
+				"폀",
+				"뗤"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 311,
+			"dataLen": 2,
+			"ruleStrings": [
+				"폁",
+				"뗥"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 312,
+			"dataLen": 2,
+			"ruleStrings": [
+				"폂",
+				"뗦"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 313,
+			"dataLen": 2,
+			"ruleStrings": [
+				"폃",
+				"뗧"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 314,
+			"dataLen": 2,
+			"ruleStrings": [
+				"폆",
+				"뗪"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 315,
+			"dataLen": 2,
+			"ruleStrings": [
+				"폊",
+				"뗮"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 316,
+			"dataLen": 2,
+			"ruleStrings": [
+				"폋",
+				"뗯"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 317,
+			"dataLen": 2,
+			"ruleStrings": [
+				"폌",
+				"뗰"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 318,
+			"dataLen": 2,
+			"ruleStrings": [
+				"폎",
+				"뗲"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 319,
+			"dataLen": 2,
+			"ruleStrings": [
+				"폏",
+				"뗳"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 320,
+			"dataLen": 2,
+			"ruleStrings": [
+				"보",
+				"넌"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 321,
+			"dataLen": 2,
+			"ruleStrings": [
+				"독",
+				"투"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 322,
+			"dataLen": 2,
+			"ruleStrings": [
+				"자",
+				"구"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 323,
+			"dataLen": 2,
+			"ruleStrings": [
+				"울",
+				"롱"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 324,
+			"dataLen": 2,
+			"ruleStrings": [
+				"튼",
+				"돋"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 325,
+			"dataLen": 2,
+			"ruleStrings": [
+				"건",
+				"김"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 326,
+			"dataLen": 2,
+			"ruleStrings": [
+				"씨",
+				"새"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 327,
+			"dataLen": 2,
+			"ruleStrings": [
+				"판",
+				"관"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 328,
+			"dataLen": 2,
+			"ruleStrings": [
+				"을",
+				"릉"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 329,
+			"dataLen": 2,
+			"ruleStrings": [
+				"색",
+				"씩"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 330,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샊",
+				"씪"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 331,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샋",
+				"씫"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 332,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샌",
+				"씬"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 333,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샍",
+				"씭"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 334,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샎",
+				"씮"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 335,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샏",
+				"씯"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 336,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샐",
+				"씰"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 337,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샑",
+				"씱"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 338,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샒",
+				"씲"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 339,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샓",
+				"씳"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 340,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샔",
+				"씴"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 341,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샕",
+				"씵"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 342,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샖",
+				"씶"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 343,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샗",
+				"씷"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 344,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샚",
+				"씺"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 345,
+			"dataLen": 2,
+			"ruleStrings": [
+				"생",
+				"씽"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 346,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샞",
+				"씾"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 347,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샟",
+				"씿"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 348,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샠",
+				"앀"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 349,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샡",
+				"앁"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 350,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샢",
+				"앂"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 351,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샣",
+				"앃"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 352,
+			"dataLen": 2,
+			"ruleStrings": [
+				"댓",
+				"멋"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 353,
+			"dataLen": 2,
+			"ruleStrings": [
+				"누",
+				"늑"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 354,
+			"dataLen": 2,
+			"ruleStrings": [
+				"두",
+				"득"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 355,
+			"dataLen": 2,
+			"ruleStrings": [
+				"루",
+				"륵"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 356,
+			"dataLen": 2,
+			"ruleStrings": [
+				"무",
+				"믁"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 357,
+			"dataLen": 2,
+			"ruleStrings": [
+				"부",
+				"븍"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 358,
+			"dataLen": 2,
+			"ruleStrings": [
+				"수",
+				"슥"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 359,
+			"dataLen": 2,
+			"ruleStrings": [
+				"우",
+				"윽"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 360,
+			"dataLen": 2,
+			"ruleStrings": [
+				"주",
+				"즉"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 361,
+			"dataLen": 2,
+			"ruleStrings": [
+				"추",
+				"측"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 362,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쿠",
+				"큭"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 363,
+			"dataLen": 2,
+			"ruleStrings": [
+				"투",
+				"특"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 364,
+			"dataLen": 2,
+			"ruleStrings": [
+				"후",
+				"흑"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 365,
+			"dataLen": 2,
+			"ruleStrings": [
+				"꾸",
+				"끅"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 366,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뚜",
+				"뜩"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 367,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뿌",
+				"쁙"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 368,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쑤",
+				"쓱"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 369,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쭈",
+				"쯕"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 370,
+			"dataLen": 2,
+			"ruleStrings": [
+				"규",
+				"귺"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 371,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뉴",
+				"늒"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 372,
+			"dataLen": 2,
+			"ruleStrings": [
+				"듀",
+				"듞"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 373,
+			"dataLen": 2,
+			"ruleStrings": [
+				"류",
+				"륶"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 374,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뮤",
+				"믂"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 375,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뷰",
+				"븎"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 376,
+			"dataLen": 2,
+			"ruleStrings": [
+				"슈",
+				"슦"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 377,
+			"dataLen": 2,
+			"ruleStrings": [
+				"유",
+				"윾"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 378,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쥬",
+				"즊"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 379,
+			"dataLen": 2,
+			"ruleStrings": [
+				"츄",
+				"츢"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 380,
+			"dataLen": 2,
+			"ruleStrings": [
+				"큐",
+				"큮"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 381,
+			"dataLen": 2,
+			"ruleStrings": [
+				"튜",
+				"튺"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 382,
+			"dataLen": 2,
+			"ruleStrings": [
+				"퓨",
+				"픆"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 383,
+			"dataLen": 2,
+			"ruleStrings": [
+				"휴",
+				"흒"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 384,
+			"dataLen": 2,
+			"ruleStrings": [
+				"리",
+				"긘"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 385,
+			"dataLen": 2,
+			"ruleStrings": [
+				"ㄹ",
+				"근"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 386,
+			"dataLen": 2,
+			"ruleStrings": [
+				"ㅁ",
+				"디"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 387,
+			"dataLen": 2,
+			"ruleStrings": [
+				"ㅂ",
+				"너"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 388,
+			"dataLen": 2,
+			"ruleStrings": [
+				"ㅅ",
+				"ㅏ"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 389,
+			"dataLen": 2,
+			"ruleStrings": [
+				"도",
+				"ㅌ"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 390,
+			"dataLen": 2,
+			"ruleStrings": [
+				"ㅆ",
+				"사"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 391,
+			"dataLen": 2,
+			"ruleStrings": [
+				"시",
+				"ㅐ"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 392,
+			"dataLen": 2,
+			"ruleStrings": [
+				"서",
+				"ㅒ"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 393,
+			"dataLen": 2,
+			"ruleStrings": [
+				"러",
+				"ㄺ"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 394,
+			"dataLen": 2,
+			"ruleStrings": [
+				"멁",
+				"댉"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 395,
+			"dataLen": 2,
+			"ruleStrings": [
+				"멍",
+				"댕"
+			],
+			"selections": [
+				0,
+				1
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 396,
+			"dataLen": 2,
+			"ruleStrings": [
+				"멎",
+				"댖"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 397,
+			"dataLen": 2,
+			"ruleStrings": [
+				"멒",
+				"댚"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 398,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귁",
+				"컼"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 399,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귂",
+				"컦"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 400,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귃",
+				"컧"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 401,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귉",
+				"컭"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 402,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귊",
+				"컮"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 403,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귋",
+				"컯"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 404,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귌",
+				"컰"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 405,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귍",
+				"컱"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 406,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귎",
+				"컲"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 407,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귏",
+				"컳"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 408,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귈",
+				"컬"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 409,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귑",
+				"컵"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 410,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귒",
+				"컶"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 411,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귔",
+				"컸"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 412,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귕",
+				"컹"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 413,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귖",
+				"컺"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 414,
+			"dataLen": 2,
+			"ruleStrings": [
+				"큋",
+				"컺"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 415,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귘",
+				"컼"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 416,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귙",
+				"컽"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 417,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귚",
+				"컾"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 418,
+			"dataLen": 2,
+			"ruleStrings": [
+				"귛",
+				"컿"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 419,
+			"dataLen": 2,
+			"ruleStrings": [
+				"위",
+				"읶"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 420,
+			"dataLen": 2,
+			"ruleStrings": [
+				"놩",
+				"낳"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 421,
+			"dataLen": 2,
+			"ruleStrings": [
+				"돵",
+				"닿"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 422,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뢍",
+				"랗"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 423,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뫙",
+				"맣"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 424,
+			"dataLen": 2,
+			"ruleStrings": [
+				"봥",
+				"밯"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 425,
+			"dataLen": 2,
+			"ruleStrings": [
+				"솽",
+				"샇"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 426,
+			"dataLen": 2,
+			"ruleStrings": [
+				"왕",
+				"앟"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 427,
+			"dataLen": 2,
+			"ruleStrings": [
+				"좡",
+				"잫"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 428,
+			"dataLen": 2,
+			"ruleStrings": [
+				"촹",
+				"잫"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 429,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쾅",
+				"캏"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 430,
+			"dataLen": 2,
+			"ruleStrings": [
+				"퇑",
+				"탛"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 431,
+			"dataLen": 2,
+			"ruleStrings": [
+				"황",
+				"핳"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 432,
+			"dataLen": 2,
+			"ruleStrings": [
+				"꽝",
+				"깧"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 433,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쫭",
+				"짷"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 434,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뙁",
+				"땋"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 435,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뽱",
+				"빻"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 436,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쐉",
+				"쌓"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 437,
+			"dataLen": 2,
+			"ruleStrings": [
+				"돠",
+				"단"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 438,
+			"dataLen": 2,
+			"ruleStrings": [
+				"롸",
+				"란"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 439,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뫄",
+				"만"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 440,
+			"dataLen": 2,
+			"ruleStrings": [
+				"솨",
+				"산"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 441,
+			"dataLen": 2,
+			"ruleStrings": [
+				"촤",
+				"찬"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 442,
+			"dataLen": 2,
+			"ruleStrings": [
+				"톼",
+				"탄"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 443,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뽜",
+				"빤"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 444,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쫘",
+				"짠"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 445,
+			"dataLen": 2,
+			"ruleStrings": [
+				"똬",
+				"딴"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 446,
+			"dataLen": 2,
+			"ruleStrings": [
+				"꽈",
+				"깐"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 447,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쏴",
+				"싼"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 448,
+			"dataLen": 2,
+			"ruleStrings": [
+				"되",
+				"딘"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 449,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뫼",
+				"민"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 450,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쾨",
+				"킨"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 451,
+			"dataLen": 2,
+			"ruleStrings": [
+				"푀",
+				"핀"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 452,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뾔",
+				"삔"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 453,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쬐",
+				"찐"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 454,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뙤",
+				"띤"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 455,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쐬",
+				"씬"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 456,
+			"dataLen": 2,
+			"ruleStrings": [
+				"놰",
+				"낸"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 457,
+			"dataLen": 2,
+			"ruleStrings": [
+				"돽",
+				"택"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 458,
+			"dataLen": 2,
+			"ruleStrings": [
+				"돾",
+				"탞"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 459,
+			"dataLen": 2,
+			"ruleStrings": [
+				"돿",
+				"탟"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 460,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됀",
+				"탠"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 461,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됁",
+				"탡"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 462,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됂",
+				"탢"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 463,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됃",
+				"탣"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 464,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됄",
+				"탤"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 465,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됅",
+				"탥"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 466,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됆",
+				"탦"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 467,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됇",
+				"탧"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 468,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됈",
+				"탨"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 469,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됉",
+				"탩"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 470,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됊",
+				"탪"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 471,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됋",
+				"탫"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 472,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됌",
+				"탬"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 473,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됍",
+				"탭"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 474,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됎",
+				"탮"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 475,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됏",
+				"탯"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 476,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됐",
+				"탰"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 477,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됑",
+				"탱"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 478,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됒",
+				"탲"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 479,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됓",
+				"탳"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 480,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됔",
+				"탴"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 481,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됕",
+				"탵"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 482,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됖",
+				"탶"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 483,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됗",
+				"탷"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 484,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됙",
+				"틱"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 485,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됚",
+				"틲"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 486,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됛",
+				"틳"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 487,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됝",
+				"틵"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 488,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됞",
+				"틶"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 489,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됟",
+				"틷"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 490,
+			"dataLen": 2,
+			"ruleStrings": [
+				"될",
+				"틸"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 491,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됡",
+				"틹"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 492,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됢",
+				"틺"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 493,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됣",
+				"틻"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 494,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됤",
+				"틼"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 495,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됥",
+				"틽"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 496,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됦",
+				"틾"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 497,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됧",
+				"틿"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 498,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됩",
+				"팁"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 499,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됪",
+				"팂"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 500,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됫",
+				"팃"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 501,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됬",
+				"팄"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 502,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됭",
+				"팅"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 503,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됮",
+				"팆"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 504,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됯",
+				"팇"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 505,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됰",
+				"팈"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 506,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됱",
+				"팉"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 507,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됲",
+				"팊"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 508,
+			"dataLen": 2,
+			"ruleStrings": [
+				"됳",
+				"팋"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 509,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뢔",
+				"랜"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 510,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뫠",
+				"맨"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 511,
+			"dataLen": 2,
+			"ruleStrings": [
+				"봬",
+				"밴"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 512,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쇄",
+				"샌"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 513,
+			"dataLen": 2,
+			"ruleStrings": [
+				"왜",
+				"앤"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 514,
+			"dataLen": 2,
+			"ruleStrings": [
+				"좨",
+				"잰"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 515,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쵀",
+				"챈"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 516,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쾌",
+				"캔"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 517,
+			"dataLen": 2,
+			"ruleStrings": [
+				"퇘",
+				"탠"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 518,
+			"dataLen": 2,
+			"ruleStrings": [
+				"퐤",
+				"팬"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 519,
+			"dataLen": 2,
+			"ruleStrings": [
+				"홰",
+				"핸"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 520,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뽸",
+				"뺀"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 521,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쫴",
+				"짼"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 522,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뙈",
+				"땐"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 523,
+			"dataLen": 2,
+			"ruleStrings": [
+				"꽤",
+				"깬"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 524,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쐐",
+				"쌘"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 525,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빆",
+				"넦"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 526,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빇",
+				"넧"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 527,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빉",
+				"넩"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 528,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빊",
+				"넪"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 529,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빋",
+				"넫"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 530,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빌",
+				"넬"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 531,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빍",
+				"넭"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 532,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빎",
+				"넮"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 533,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빏",
+				"넯"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 534,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빐",
+				"넰"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 535,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빑",
+				"넱"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 536,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빒",
+				"넲"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 537,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빓",
+				"넳"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 538,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빔",
+				"넴"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 539,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빕",
+				"넵"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 540,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빖",
+				"넶"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 541,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빘",
+				"넸"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 542,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빙",
+				"넹"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 543,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빚",
+				"넺"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 544,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빛",
+				"넻"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 545,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빜",
+				"넼"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 546,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빝",
+				"넽"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 547,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빞",
+				"넾"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 548,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빟",
+				"넿"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 549,
+			"dataLen": 2,
+			"ruleStrings": [
+				"읍",
+				"윰"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 550,
+			"dataLen": 2,
+			"ruleStrings": [
+				"펴",
+				"뗘"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 551,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탁",
+				"돡"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 552,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탂",
+				"돢"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 553,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탃",
+				"돣"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 554,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탅",
+				"돥"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 555,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탇",
+				"퇃"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 556,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탈",
+				"돨"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 557,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탉",
+				"돩"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 558,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탊",
+				"돪"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 559,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탋",
+				"돫"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 560,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탌",
+				"돬"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 561,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탍",
+				"돭"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 562,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탎",
+				"돮"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 563,
+			"dataLen": 2,
+			"ruleStrings": [
+				"돯",
+				"돯"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 564,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탐",
+				"돰"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 565,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탑",
+				"돱"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 566,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탒",
+				"돲"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 567,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탓",
+				"돳"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 568,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탔",
+				"돴"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 569,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탕",
+				"돵"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 570,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탖",
+				"돶"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 571,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탗",
+				"돷"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 572,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탘",
+				"돸"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 573,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탙",
+				"돹"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 574,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탚",
+				"돺"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 575,
+			"dataLen": 2,
+			"ruleStrings": [
+				"탛",
+				"돻"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 576,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뗘",
+				"떡"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 577,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쎠",
+				"썩"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 578,
+			"dataLen": 2,
+			"ruleStrings": [
+				"영",
+				"잏"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 579,
+			"dataLen": 2,
+			"ruleStrings": [
+				"길",
+				"긛"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 580,
+			"dataLen": 2,
+			"ruleStrings": [
+				"닐",
+				"늳"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 581,
+			"dataLen": 2,
+			"ruleStrings": [
+				"딜",
+				"듿"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 582,
+			"dataLen": 2,
+			"ruleStrings": [
+				"릴",
+				"릗"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 583,
+			"dataLen": 2,
+			"ruleStrings": [
+				"밀",
+				"믣"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 584,
+			"dataLen": 2,
+			"ruleStrings": [
+				"빌",
+				"븯"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 585,
+			"dataLen": 2,
+			"ruleStrings": [
+				"실",
+				"싇"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 586,
+			"dataLen": 2,
+			"ruleStrings": [
+				"일",
+				"읟"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 587,
+			"dataLen": 2,
+			"ruleStrings": [
+				"질",
+				"즫"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 588,
+			"dataLen": 2,
+			"ruleStrings": [
+				"칠",
+				"칃"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 589,
+			"dataLen": 2,
+			"ruleStrings": [
+				"킬",
+				"킏"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 590,
+			"dataLen": 2,
+			"ruleStrings": [
+				"틸",
+				"틛"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 591,
+			"dataLen": 2,
+			"ruleStrings": [
+				"필",
+				"픧"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 592,
+			"dataLen": 2,
+			"ruleStrings": [
+				"힐",
+				"흳"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 593,
+			"dataLen": 2,
+			"ruleStrings": [
+				"삘",
+				"쁻"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 594,
+			"dataLen": 2,
+			"ruleStrings": [
+				"찔",
+				"쯷"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 595,
+			"dataLen": 2,
+			"ruleStrings": [
+				"띨",
+				"띋"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 596,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낄",
+				"끧"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 597,
+			"dataLen": 2,
+			"ruleStrings": [
+				"씰",
+				"씓"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 598,
+			"dataLen": 2,
+			"ruleStrings": [
+				"백",
+				"뿌"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 599,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뱀",
+				"뿐"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 600,
+			"dataLen": 2,
+			"ruleStrings": [
+				"통",
+				"돟"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 601,
+			"dataLen": 2,
+			"ruleStrings": [
+				"궈",
+				"켜"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 602,
+			"dataLen": 2,
+			"ruleStrings": [
+				"문",
+				"믐"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 603,
+			"dataLen": 2,
+			"ruleStrings": [
+				"분",
+				"븜"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 604,
+			"dataLen": 2,
+			"ruleStrings": [
+				"춘",
+				"츰"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 605,
+			"dataLen": 2,
+			"ruleStrings": [
+				"푼",
+				"픔"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 606,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쭌",
+				"쯤"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 607,
+			"dataLen": 2,
+			"ruleStrings": [
+				"따",
+				"파"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 608,
+			"dataLen": 2,
+			"ruleStrings": [
+				"곡",
+				"푸"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 609,
+			"dataLen": 2,
+			"ruleStrings": [
+				"곧",
+				"픈"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 610,
+			"dataLen": 2,
+			"ruleStrings": [
+				"고",
+				"끄"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 611,
+			"dataLen": 2,
+			"ruleStrings": [
+				"꾸",
+				"걱"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 612,
+			"dataLen": 2,
+			"ruleStrings": [
+				"끽",
+				"겍"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 613,
+			"dataLen": 2,
+			"ruleStrings": [
+				"끿",
+				"겏"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 614,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낌",
+				"겜"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 615,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낍",
+				"겝"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 616,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낏",
+				"겟"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 617,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낐",
+				"겠"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 618,
+			"dataLen": 2,
+			"ruleStrings": [
+				"낑",
+				"겡"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 619,
+			"dataLen": 2,
+			"ruleStrings": [
+				"라",
+				"갇"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 620,
+			"dataLen": 2,
+			"ruleStrings": [
+				"랴",
+				"갿"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 621,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팍",
+				"깤"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 622,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뎨",
+				"덱"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 623,
+			"dataLen": 2,
+			"ruleStrings": [
+				"졔",
+				"젝"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 624,
+			"dataLen": 2,
+			"ruleStrings": [
+				"뗴",
+				"폐"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 625,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쎼",
+				"쎅"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 626,
+			"dataLen": 2,
+			"ruleStrings": [
+				"긔",
+				"긱"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 627,
+			"dataLen": 2,
+			"ruleStrings": [
+				"늬",
+				"닉"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 628,
+			"dataLen": 2,
+			"ruleStrings": [
+				"듸",
+				"딕"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 629,
+			"dataLen": 2,
+			"ruleStrings": [
+				"릐",
+				"릭"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 630,
+			"dataLen": 2,
+			"ruleStrings": [
+				"믜",
+				"믹"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 631,
+			"dataLen": 2,
+			"ruleStrings": [
+				"븨",
+				"빅"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 632,
+			"dataLen": 2,
+			"ruleStrings": [
+				"싀",
+				"식"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 633,
+			"dataLen": 2,
+			"ruleStrings": [
+				"즤",
+				"직"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 634,
+			"dataLen": 2,
+			"ruleStrings": [
+				"츼",
+				"칙"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 635,
+			"dataLen": 2,
+			"ruleStrings": [
+				"킈",
+				"킥"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 636,
+			"dataLen": 2,
+			"ruleStrings": [
+				"틔",
+				"틱"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 637,
+			"dataLen": 2,
+			"ruleStrings": [
+				"픠",
+				"픽"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 638,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쁴",
+				"삑"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 639,
+			"dataLen": 2,
+			"ruleStrings": [
+				"쯰",
+				"찍"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 640,
+			"dataLen": 2,
+			"ruleStrings": [
+				"띄",
+				"띡"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 641,
+			"dataLen": 2,
+			"ruleStrings": [
+				"끠",
+				"끽"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 642,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젊",
+				"겲"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 643,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젓",
+				"겻"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 644,
+			"dataLen": 2,
+			"ruleStrings": [
+				"젖",
+				"겾"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 645,
+			"dataLen": 2,
+			"ruleStrings": [
+				"똥",
+				"버0"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 646,
+			"dataLen": 2,
+			"ruleStrings": [
+				"니",
+				"u"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 647,
+			"dataLen": 2,
+			"ruleStrings": [
+				"욕",
+				"늉"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 648,
+			"dataLen": 2,
+			"ruleStrings": [
+				"콘",
+				"귣"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 649,
+			"dataLen": 2,
+			"ruleStrings": [
+				"아",
+				"Or"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 650,
+			"dataLen": 2,
+			"ruleStrings": [
+				"야",
+				"OF"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 651,
+			"dataLen": 2,
+			"ruleStrings": [
+				"더",
+				"G"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 652,
+			"dataLen": 2,
+			"ruleStrings": [
+				"또",
+				"SE"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 653,
+			"dataLen": 2,
+			"ruleStrings": [
+				"배",
+				"ldH"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 654,
+			"dataLen": 2,
+			"ruleStrings": [
+				"인",
+				"ㅅ"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 655,
+			"dataLen": 2,
+			"ruleStrings": [
+				"크",
+				"?"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				1
+			]
+		},
+		{
+			"index": 656,
+			"dataLen": 2,
+			"ruleStrings": [
+				"응",
+				"%"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 657,
+			"dataLen": 2,
+			"ruleStrings": [
+				"양",
+				"8K"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 658,
+			"dataLen": 2,
+			"ruleStrings": [
+				"망",
+				"ㅁ5"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 659,
+			"dataLen": 2,
+			"ruleStrings": [
+				"테",
+				"E기"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 660,
+			"dataLen": 2,
+			"ruleStrings": [
+				"않",
+				"오송"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 661,
+			"dataLen": 2,
+			"ruleStrings": [
+				"홍",
+				"아아"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 662,
+			"dataLen": 2,
+			"ruleStrings": [
+				"험",
+				"디와"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 663,
+			"dataLen": 2,
+			"ruleStrings": [
+				"나",
+				4
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 664,
+			"dataLen": 2,
+			"ruleStrings": [
+				"작",
+				"갘"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 665,
+			"dataLen": 2,
+			"ruleStrings": [
+				"펵",
+				"뗙"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 666,
+			"dataLen": 2,
+			"ruleStrings": [
+				"편",
+				"뗜"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 667,
+			"dataLen": 2,
+			"ruleStrings": [
+				"펻",
+				"뗟"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 668,
+			"dataLen": 2,
+			"ruleStrings": [
+				"펼",
+				"뗠"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 669,
+			"dataLen": 2,
+			"ruleStrings": [
+				"펾",
+				"뗢"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 670,
+			"dataLen": 2,
+			"ruleStrings": [
+				"폄",
+				"뗨"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 671,
+			"dataLen": 2,
+			"ruleStrings": [
+				"폅",
+				"뗩"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 672,
+			"dataLen": 2,
+			"ruleStrings": [
+				"폇",
+				"뗫"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 673,
+			"dataLen": 2,
+			"ruleStrings": [
+				"폈",
+				"뗬"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 674,
+			"dataLen": 2,
+			"ruleStrings": [
+				"평",
+				"뗭"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 675,
+			"dataLen": 2,
+			"ruleStrings": [
+				"폍",
+				"뗱"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 676,
+			"dataLen": 2,
+			"ruleStrings": [
+				"제",
+				"겍"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 677,
+			"dataLen": 2,
+			"ruleStrings": [
+				"언",
+				"읜"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 678,
+			"dataLen": 2,
+			"ruleStrings": [
+				"은",
+				"긍"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 679,
+			"dataLen": 2,
+			"ruleStrings": [
+				"병",
+				"ㅇ뚀"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 680,
+			"dataLen": 2,
+			"ruleStrings": [
+				"기",
+				71
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 681,
+			"dataLen": 2,
+			"ruleStrings": [
+				"변",
+				"r뚀"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 682,
+			"dataLen": 2,
+			"ruleStrings": [
+				"심",
+				"싄"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 683,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팍",
+				"곽"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 684,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팎",
+				"곾"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 685,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팏",
+				"곿"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 686,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팑",
+				"괁"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 687,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팒",
+				"괂"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 688,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팓",
+				"괃"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 689,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팔",
+				"괄"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 690,
+			"dataLen": 2,
+			"ruleStrings": [
+				"괄호",
+				"팔호"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 691,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팕",
+				"괅"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 692,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팖",
+				"괆"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 693,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팗",
+				"괇"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 694,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팘",
+				"괈"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 695,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팙",
+				"괉"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 696,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팚",
+				"괊"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 697,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팛",
+				"괋"
+			],
+			"selections": [
+				0,
+				2
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 698,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팝",
+				"괍"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 699,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팞",
+				"괎"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 700,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팟",
+				"괏"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 701,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팠",
+				"괐"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 702,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팢",
+				"괒"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 703,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팣",
+				"괓"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 704,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팤",
+				"괔"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 705,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팥",
+				"괕"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 706,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팦",
+				"괖"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 707,
+			"dataLen": 2,
+			"ruleStrings": [
+				"팧",
+				"괗"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 708,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샘",
+				"씸"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 709,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샙",
+				"씹"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 710,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샛",
+				"씻"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 711,
+			"dataLen": 2,
+			"ruleStrings": [
+				"샜",
+				"씼"
+			],
+			"selections": [
+				3,
+				0
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 712,
+			"dataLen": 2,
+			"ruleStrings": [
+				"이",
+				"O1"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 713,
+			"dataLen": 2,
+			"ruleStrings": [
+				"펭",
+				"뗑"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		},
+		{
+			"index": 714,
+			"dataLen": 2,
+			"ruleStrings": [
+				"번",
+				"놴"
+			],
+			"selections": [
+				0,
+				3
+			],
+			"hanjas": [
+				0,
+				0
+			]
+		}
+	],
+	"versionInfo": {
+		"dbVersion": 28
+	}
+}
