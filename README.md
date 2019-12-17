@@ -4,7 +4,9 @@
 한글 단어 및 문자 변환과 관련된 밈인 '야민정음'으로의 변환 및 역변환을 제공하는 툴입니다.
 
 ## Download JAR file
-[Click Here](https://github.com/Yang-Seungmin/YaminjeongeumConverter/raw/master/out/artifacts/YaminjeongeumConverter_jar/YaminjeongeumConverter.jar)
+[Click Here](https://github.com/Yang-Seungmin/YaminjeongeumConverter/raw/master/out/artifacts/YaminjeongeumConverter_jar/YaminjeongeumConverter.jar)  
+### IntelliJ IDEA에서 JAR 파일 추가하기
+File - Project Structure - Libraries - 왼쪽 상단 + 클릭 후 jar 파일 선택
 
 ## Usage
 ### Create new Instance
