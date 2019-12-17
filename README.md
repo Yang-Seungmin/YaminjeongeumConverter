@@ -30,15 +30,18 @@ YaminjeongeumConverter yaminjeongeumConverter = new YaminjeongeumConverter.Build
                 .setFilePath("custom_file_path.json")
                 .build();
 ```
-**setConvertHanja(boolean convertHanja)** : 한자 문자열 간의 변환을 허용할 지 결정합니다. 한자 폰트가 없을 경우 유용합니다.  
-**setFilePath(String filePath)** : Custom json file을 사용할 경우 사용하며 json file의 규칙이 동일해야 합니다.  
-**setSelectionStrength(SelectionStrength selectionStrength)** : 변환 강도를 지정합니다.
-> SelectionStrength.ORIGINAL : 야민정음으로 된 문자열을 역변환할 때 사용합니다.  
-> SelectionStrength.SLIGHT : 약한 강도의 변환을 수행합니다.  
-> SelectionStrength.MODERATE : 중간 강도의 변환을 수행합니다.  
-> SelectionStrength.EXTREME : 강력한 변환을 수행합니다.  
+1. **setConvertHanja(boolean convertHanja)** : 한자 문자열 간의 변환을 허용할 지 결정합니다. 한자 폰트가 없을 경우 유용합니다.  
+2. **setFilePath(String filePath)** : Custom json file을 사용할 경우 사용하며 json file의 규칙이 동일해야 합니다.  
+3. **setSelectionStrength(SelectionStrength selectionStrength)** : 변환 강도를 지정합니다.
+    - SelectionStrength.ORIGINAL : 야민정음으로 된 문자열을 역변환할 때 사용합니다.  
+    - SelectionStrength.SLIGHT : 약한 강도의 변환을 수행합니다.  
+    - SelectionStrength.MODERATE : 중간 강도의 변환을 수행합니다.  
+    - SelectionStrength.EXTREME : 강력한 변환을 수행합니다.  
 
-**setDebugMode(boolean debugMode)** : 이 옵션이 true일 경우 중간 과정을 콘솔(System.out.println)로 출력합니다.  
+4. **setDebugMode(boolean debugMode)** : 이 옵션이 true일 경우 중간 과정을 콘솔(System.out.println)로 출력합니다.  
+
+## Changelog
+**2019.12.17** - First version release
 
 ## Library in use
 Gson - A Java serialization/deserialization library to convert Java Objects into JSON and back
