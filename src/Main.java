@@ -8,12 +8,6 @@ public class Main {
         YaminjeongeumConverter yaminjeongeumConverter = new YaminjeongeumConverter.Builder()
                 .setConvertHanja(false)
                 .setSelectionStrength(SelectionStrength.EXTREME)
-                .setErrorListener(new YaminjeongeumConverter.Builder.ErrorListener() {
-                    @Override
-                    public void onErrorReceived(String errorString) {
-                        System.out.println(errorString);
-                    }
-                })
                 .setDebugMode(false)
                 .build();
 
