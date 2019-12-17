@@ -3,6 +3,9 @@
 
 한글 단어 및 문자 변환과 관련된 밈인 '야민정음'으로의 변환 및 역변환을 제공하는 툴입니다.
 
+## Download JAR file
+[Click Here](https://github.com/Yang-Seungmin/YaminjeongeumConverter/raw/master/out/artifacts/YaminjeongeumConverter_jar/YaminjeongeumConverter.jar)
+
 ## Usage
 ### Create new Instance
 YaminjeongeumConverter.Builder()를 사용해 YaminjeongeumConverter 인스턴스를 생성합니다.
